@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.exe.config
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.exe
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\bin\Debug\GruposDeInvestigacionApp.pdb
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.exe
+C:\Users\USUARIO\source\repos\GruposDeInvestigacionApp\GruposDeInvestigacionApp\obj\Debug\GruposDeInvestigacionApp.pdb
